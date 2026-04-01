@@ -1,4 +1,4 @@
-# Estudos Python — Programação Orientada a Objetos (POO)
+# Estudos Python - Programação Orientada a Objetos (POO)
 
 Este repositório reúne **exercícios, experimentos e mini-projetos desenvolvidos em Python com foco em Programação Orientada a Objetos (POO)**.  
 O conteúdo foi construído de forma progressiva, com o objetivo de consolidar os principais conceitos da orientação a objetos e aplicá-los em cenários práticos.
