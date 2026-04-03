@@ -44,7 +44,6 @@ Uma possível organização futura inclui separações como:
 ```plaintext
 estudos-python-poo/
 ├── fundamentos/
-├── pilares/
 ├── mini_projetos/
 └── README.md
 ```
